@@ -1,6 +1,11 @@
 # supportiv-chat
 Multi-agent interactive support group chat.
 
+## Description
+Supportiv is a multi-agent interactive support group chat that connects users with agents facing similar issues.
+The goal is to lower the barrier to entry for users seeking support by providing a real-time chat experience populated with other users facing the same issue.
+This is not intended to replace professional help, but perhaps provide a stepping stone for users who are not ready to seek professional help or support in the real world.
+
 ## Installation
 1. Clone the repository
 2. Install the required packages
