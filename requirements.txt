@@ -1,0 +1,6 @@
+pyautogen
+langchain>=0.0.142
+langchain_openai
+nicegui
+openai
+streamlit
