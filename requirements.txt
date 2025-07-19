@@ -1,4 +1,4 @@
-pyautogen==0.2.16
+ag2==0.2.16
 langchain==0.1.10
 langchain_openai==0.0.8
 nicegui==1.4.17
